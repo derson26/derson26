@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Derson Ussuale, my GitHub user is @derson26
-- 👀 I’m interested in Angular framework, nestJS, Spring, Typescript, JavaScript, oracle, mysql database
+- 👀 I’m interested in Angular framework, nestJS, Spring boot, Typescript, JavaScript, oracle, mysql database
 - 🌱 I’m currently learning the above mentioned technology
 <!---
 derson26/derson26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
